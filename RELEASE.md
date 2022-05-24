@@ -2,7 +2,7 @@
 
 ### New
 
-- none
+- Transparent encryption for IndexedDB using Dexie.
 
 ### Fixes
 

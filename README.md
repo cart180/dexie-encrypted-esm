@@ -6,6 +6,6 @@ An ESM build of [dexie-encrypted](https://www.npmjs.com/package/dexie-encrypted)
 
 | Continuos Integration | Release | NPM |
 | --- | --- | --- |
-| [![Vet Code](https://github.com/cart180/dexie-encrypted-esm/actions/workflows/vet-code.yml/badge.svg)](https://github.com/cart180/dexie-encrypted-esm/actions/workflows/vet-code.yml) | [![GitHub Release](https://github.com/cart180/dexie-encrypted-esm/actions/workflows/github-release.yml/badge.svg)](https://github.com/cart180/dexie-encrypted-esm/actions/workflows/github-release.yml) | ![npm](https://img.shields.io/npm/v/@cart180/dexie-encrypted-esm?style=flat) |
+| [![Vet Code](https://github.com/cart180/dexie-encrypted-esm/actions/workflows/vet-code.yml/badge.svg)](https://github.com/cart180/dexie-encrypted-esm/actions/workflows/vet-code.yml) | [![GitHub Release](https://github.com/cart180/dexie-encrypted-esm/actions/workflows/github-release.yml/badge.svg)](https://github.com/cart180/dexie-encrypted-esm/actions/workflows/github-release.yml) | ![npm](https://img.shields.io/npm/v/dexie-encrypted-esm?style=flat) |
 
 ###### Licensed under MIT - Copyright (c) cart180. All rights reserved.

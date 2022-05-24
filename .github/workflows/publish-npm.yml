@@ -17,5 +17,7 @@ jobs:
   publish-npm:
     name: Publish NPM
     uses: cart180/Reusable-Workflows/.github/workflows/publish-npm.yml@main
+    with:
+      dist: publish_esm
     secrets:
       NODE_AUTH_TOKEN: ${{ secrets.NODE_AUTH_TOKEN }}
